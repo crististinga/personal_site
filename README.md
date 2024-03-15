@@ -1,2 +1,2 @@
 # personal_site
-A personal site created using Flask, HTML, CSS and Bootstrap 5.
+A personal site created using HTML, CSS, Bootstrap 5 and JavaScript.
