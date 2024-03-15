@@ -1,120 +1,4 @@
 
-/*!* Page Elements *!*/
-
-/*body {*/
-/*    margin: 0;*/
-/*    text-align: center;*/
-/*    font-family: 'Merriweather', serif;*/
-/*}*/
-
-
-
-/*h2 {*/
-/*    font-family: "Montserrat", sans-serif;*/
-/*    font-size: 2rem;*/
-/*    font-weight: normal;*/
-/*    color: #AD88C6;*/
-/*}*/
-
-/*h3 {*/
-/*    font-family: "Montserrat", sans-serif;*/
-/*    color: #AD88C6;*/
-/*}*/
-
-/*a {*/
-/*    color: #AD88C6;*/
-/*    padding: 10px;*/
-/*}*/
-
-/*!*.container-fluid {*!*/
-/*!*    padding: 5% 10%;*!*/
-/*!*    text-align: center;*!*/
-/*!*}*!*/
-
-
-/*!* Top Container *!*/
-
-/*.top-container {*/
-/*    background-color: #FFE6E6;*/
-/*    padding-top: 100px;*/
-/*}*/
-
-/*.cloud {*/
-/*    text-align: center;*/
-/*}*/
-
-/*.sunrise {*/
-/*    width: 40%;*/
-/*}*/
-
-
-
-/*!*Middle Container*!*/
-
-/*.middle-container {*/
-/*    padding: 50px;*/
-/*}*/
-
-
-/*.profile-image {*/
-/*    width: 15%;*/
-/*    padding-bottom: 5%;*/
-/*}*/
-
-/*.think-gif {*/
-/*    width: 20%;*/
-/*    float: left;*/
-/*    margin-right: 30px;*/
-/*}*/
-
-/*.learn-gif {*/
-/*    width: 15%;*/
-/*    float: right;*/
-/*    margin-left: 30px;*/
-/*}*/
-
-/*.skill-row {*/
-/*    width: 50%;*/
-/*    margin: 100px auto 100px auto;*/
-/*    text-align: left;*/
-/*    line-height: 2;*/
-/*}*/
-
-/*.my-description {*/
-/*    text-align: center;*/
-/*    width: 35%;*/
-/*    margin: 0 auto 5% auto;*/
-/*    padding-bottom: 20px;*/
-/*}*/
-
-
-
-
-
-/*.contact-btn {*/
-/*    margin: 10px;*/
-/*}*/
-
-/*!* Bottom Container *!*/
-
-/*.bottom-container {*/
-/*    padding: 50px;*/
-/*    background-color: #FFE6E6;*/
-/*    text-align: center;*/
-/*}*/
-
-/*.icon {*/
-/*    color: #AD88C6;*/
-/*    transition: 0.2s ease-in-out;*/
-/*}*/
-
-
-/*.bottom-container p {*/
-/*    padding-top: 3%;*/
-/*}*/
-
-
-
 
 /* Other elements */
 
@@ -207,7 +91,7 @@ h1 {
     color: black;
 }
 
-@media (min-width: 320px) and (max-width: 999px) {
+@media  (max-width: 999px) {
 
     .profile-image {
         width: 35%;
@@ -220,6 +104,8 @@ h1 {
     .cloud {
         width: 50%;
     }
+
+
 
 
 }
