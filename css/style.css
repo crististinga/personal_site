@@ -1,0 +1,225 @@
+
+/*!* Page Elements *!*/
+
+/*body {*/
+/*    margin: 0;*/
+/*    text-align: center;*/
+/*    font-family: 'Merriweather', serif;*/
+/*}*/
+
+
+
+/*h2 {*/
+/*    font-family: "Montserrat", sans-serif;*/
+/*    font-size: 2rem;*/
+/*    font-weight: normal;*/
+/*    color: #AD88C6;*/
+/*}*/
+
+/*h3 {*/
+/*    font-family: "Montserrat", sans-serif;*/
+/*    color: #AD88C6;*/
+/*}*/
+
+/*a {*/
+/*    color: #AD88C6;*/
+/*    padding: 10px;*/
+/*}*/
+
+/*!*.container-fluid {*!*/
+/*!*    padding: 5% 10%;*!*/
+/*!*    text-align: center;*!*/
+/*!*}*!*/
+
+
+/*!* Top Container *!*/
+
+/*.top-container {*/
+/*    background-color: #FFE6E6;*/
+/*    padding-top: 100px;*/
+/*}*/
+
+/*.cloud {*/
+/*    text-align: center;*/
+/*}*/
+
+/*.sunrise {*/
+/*    width: 40%;*/
+/*}*/
+
+
+
+/*!*Middle Container*!*/
+
+/*.middle-container {*/
+/*    padding: 50px;*/
+/*}*/
+
+
+/*.profile-image {*/
+/*    width: 15%;*/
+/*    padding-bottom: 5%;*/
+/*}*/
+
+/*.think-gif {*/
+/*    width: 20%;*/
+/*    float: left;*/
+/*    margin-right: 30px;*/
+/*}*/
+
+/*.learn-gif {*/
+/*    width: 15%;*/
+/*    float: right;*/
+/*    margin-left: 30px;*/
+/*}*/
+
+/*.skill-row {*/
+/*    width: 50%;*/
+/*    margin: 100px auto 100px auto;*/
+/*    text-align: left;*/
+/*    line-height: 2;*/
+/*}*/
+
+/*.my-description {*/
+/*    text-align: center;*/
+/*    width: 35%;*/
+/*    margin: 0 auto 5% auto;*/
+/*    padding-bottom: 20px;*/
+/*}*/
+
+
+
+
+
+/*.contact-btn {*/
+/*    margin: 10px;*/
+/*}*/
+
+/*!* Bottom Container *!*/
+
+/*.bottom-container {*/
+/*    padding: 50px;*/
+/*    background-color: #FFE6E6;*/
+/*    text-align: center;*/
+/*}*/
+
+/*.icon {*/
+/*    color: #AD88C6;*/
+/*    transition: 0.2s ease-in-out;*/
+/*}*/
+
+
+/*.bottom-container p {*/
+/*    padding-top: 3%;*/
+/*}*/
+
+
+
+
+/* Other elements */
+
+.body {
+    font-family: "Merriweather", sans-serif;
+}
+
+.colored-section {
+    background-color: #FFE6E6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #AD88C6;
+    font-family: "Montserrat", sans-serif;
+    font-size: 3rem;
+}
+
+.col {
+    padding: 50px;
+}
+
+.dotted-lines {
+
+    border-color: purple;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    margin: 0 auto 0 auto ;
+    padding: 1.5rem;
+    background-color: #fff;
+    text-align: center;
+    width: 20% !important;
+}
+
+
+h1 {
+
+}
+
+/* Top Section */
+
+.cloud {
+    width: 30%;
+}
+
+.my-name {
+    font-size: 5.625rem;
+    font-family: "Reenie Beanie",cursive;
+    line-height: 2;
+}
+
+.top-part {
+    padding: 5% 0 0 !important;
+}
+
+.sunrise-img {
+    width: 30%;
+}
+
+/* Middle Section */
+
+.profile-image {
+    width: 20%;
+    padding-bottom: 20px;
+}
+
+.middle-container-text {
+    width: 50%;
+    margin: 0 auto 0 auto;
+}
+
+.skills-media {
+    width: 50%;
+    padding-bottom: 20px;
+}
+
+/* Bottom Section */
+
+.footer-link {
+    padding: 10px;
+    color: #AD88C6;
+    transition: 0.2s ease-in-out;
+}
+
+.fa-linkedin:hover {
+    color: #0A66C2;
+}
+
+.fa-github:hover, .fa-envelope:hover {
+    color: black;
+}
+
+@media (min-width: 320px) and (max-width: 999px) {
+
+    .profile-image {
+        width: 35%;
+    }
+
+    .sunrise-img {
+        width: 50%;
+    }
+
+    .cloud {
+        width: 50%;
+    }
+
+
+}
